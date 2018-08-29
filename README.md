@@ -26,3 +26,8 @@
 ## Unity入門
 
 * rigidbody
+* colllider
+* build
+* camera
+* light
+*
